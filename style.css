@@ -1,0 +1,11 @@
+.bigness:hover{
+    font-weight: bold;
+}
+body{
+    background-color: #283E5D;
+}
+.videoo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
